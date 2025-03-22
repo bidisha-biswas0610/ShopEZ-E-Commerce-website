@@ -1,3 +1,4 @@
+### Guided Project
 # 🛒 MERN Grocery Shop Project
 
 Welcome to the MERN Grocery Shop Project! This project is built using the MERN (MongoDB, Express, React, Node.js) stack and incorporates various features like user authentication, product listings, reviews, and more.
@@ -29,4 +30,4 @@ Welcome to the MERN Grocery Shop Project! This project is built using the MERN (
 - 💌 **Nodemailer**: A library for sending email.
 - ☁️ **Cloudinary**: A cloud-based image and video management service.
 
-## Team Members
+## Team Members and Individual Contribution
