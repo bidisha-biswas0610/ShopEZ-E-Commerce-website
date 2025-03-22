@@ -18,19 +18,6 @@ Welcome to the MERN Grocery Shop Project! This project is built using the MERN (
 - 👨‍💼 **Admin Functionality**: Special features for administrators to manage products and users.
 
 
-   MONGODB_URI=your_mongodb_uri
-   JWT_SECRET_KEY = jwt_secret_key
-   JWT_RESET_PASSWORD_SECRET_KEY = jwt_reset_password_secret_key
-   COOKIE_EXPIRE = 5
-   SMPT_MAIL = smpt_mail
-   SMPT_PASSWORD = smpt_password
-   CLOUD_NAME = your_cloudinary_cloud_name
-   CLOUD_API_KEY =  your_cloudinary_api_key
-   CLOUD_API_SECRET_KEY =  your_cloudinary_api_secret
-   ```
-
-
-
 ## Technologies
 
 - 📦 **MongoDB**: A NoSQL database for storing data.
