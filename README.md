@@ -11,6 +11,14 @@ He logs into his account, confident that his saved address and payment informati
 
 Shubham is excited to receive his new phone and looks forward to tracking its delivery. He also appreciates the email confirmation he receives, providing him with peace of mind. He knows that if he has any issues, he can easily check his order status on the website.
 
+---
+
+
+## 🎥 Short Video Demo
+[Click here to watch the demo](https://1drv.ms/v/c/b25df13dba5dccba/EXZzVW8zws9IgbqTiEvvK1sBhecsAUjHgqVsgtVF2LuKaA)
+
+---
+
 ## 🔑 Key Features
 
 - **🌐 Responsive Design**: Ensures a great user experience across devices.
