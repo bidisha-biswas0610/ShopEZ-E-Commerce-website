@@ -3,10 +3,13 @@ An interactive Single Page Application (SPA) offering all the essential and adva
 
 ---
 
-## 🎥 Short Video Demo
-[Click here to watch the demo](https://github.com/user-attachments/assets/cfb04526-b484-4cab-a5b9-c72d78d4a878)
+## Case Scenario: Shubham's New iPhone Purchase
 
----
+Shubham's current phone is showing its age. Slow performance, a cracked screen, and a dwindling battery have made it clear: it's time for an upgrade. He's been eyeing the new Apple iPhone 15 and decides to purchase it from an online e-commerce website he's used before.
+
+He logs into his account, confident that his saved address and payment information will make the process quick and easy. He searches for the iPhone 15, adds it to his cart, and takes a moment to browse related accessories, like cases and screen protectors. He then proceeds to checkout, selects his preferred delivery address, chooses his saved payment method, and confirms the order.
+
+Shubham is excited to receive his new phone and looks forward to tracking its delivery. He also appreciates the email confirmation he receives, providing him with peace of mind. He knows that if he has any issues, he can easily check his order status on the website.
 
 ## 🔑 Key Features
 
@@ -42,111 +45,6 @@ An interactive Single Page Application (SPA) offering all the essential and adva
 
 
 ---
-## 💻 Getting Started
 
-### Prerequisites
-
-Before you begin, ensure that you have the following installed:
-
-1. **Node.js**: [Download Node.js](https://nodejs.org)
-2. **MongoDB**: [Download MongoDB](https://www.mongodb.com)
-3. **Git**: [Download Git](https://git-scm.com)
-
-### 🚀 Running ShopCart on Your Local Machine
-
-Follow these steps to get ShopCart running on your local machine:
-
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/shubham-mehta-002/ShopCart-E-CommerceWebsite.git
-    ```
-
-2. **Navigate to the project directory**:
-    ```bash
-    cd ShopCart-E-CommerceWebsite
-    ```
-
-3. **Install dependencies for both backend and frontend**:
-
-    - Install backend dependencies:
-      ```bash
-      cd Backend
-      npm install
-      ```
-
-    - Install frontend dependencies:
-      ```bash
-      cd ../Frontend
-      npm install
-      ```
-
-4. **Set up environment variables**: Create `.env` file in backend with the necessary values.  
-   Here's a sample configuration:
-
-    **Backend `.env`:**
-    ```bash
-    # Backend Environment Variables
-    PORT=
-    MONGODB_URI=
-
-    
-    ...(refer from .env.example file in Backend folder)
-    ```
-
-
-5. **Run the project**:
-    - Run the backend server:
-      ```bash
-      cd Backend
-      npm run dev
-      ```
-    - Run the frontend:
-      ```bash
-      cd ../Frontend
-      npm run dev
-      ```
----
-
-
-
-
-## 👤 Contributing
-
-We welcome contributions to make ShopCart even better! Here’s how you can help:
-
-1. **Fork the Repository**: Create your own copy of the repository by clicking the "Fork" button.
-2. **Clone the Repository**: Clone your forked repository to your local machine using:
-   ```bash
-   git clone https://github.com/<your-username>/shopcart.git
-   ```
-3. **Create a New Branch**: Create a new branch for your feature or bugfix:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-4. **Make Changes**: Add your changes and commit them with clear messages.
-   ```bash
-   git commit -m "Add: Your feature description"
-   ```
-5. **Push to Your Fork**: Push the changes to your forked repository:
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-6. **Create a Pull Request**: Submit a pull request to the main repository with a clear description of your changes.
-
-### Guidelines:
-- Ensure your code is well-tested and adheres to the project’s coding standards.
-- Write clear commit messages.
-- Provide detailed descriptions in your pull requests.
-
----
-
-
-## 🔍 Find Me Here
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/shubham-mehta-6b8115284) 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/shubham-mehta-002) 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://x.com/mehtashubham002) 
-[![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&logoColor=white&style=for-the-badge)](https://shubham-mehta.hashnode.dev/) 
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:mehta.shubham002@gmail.com)
 
 ## Team Members and Individual Contribution
