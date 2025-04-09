@@ -57,12 +57,8 @@ Shubham is excited to receive his new phone and looks forward to tracking its de
 
 ## 👥 Team Members and Individual Contribution
 - **👨‍🏫 Project Lead – Bidisha Biswas (Backend Developer)**
-Designed the backend architecture using Node.js and Express.js.
-
-Developed RESTful APIs for authentication, product listings, wishlist, orders, etc.
-
-Implemented JWT-based authentication with role-based access control.
-
-Configured middleware for token handling and route protection.
-
-Oversaw project progress and ensured timely task distribution.
+--Designed the backend architecture using Node.js and Express.js.
+--Developed RESTful APIs for authentication, product listings, wishlist, orders, etc.
+--Implemented JWT-based authentication with role-based access control.
+--Configured middleware for token handling and route protection.
+--Oversaw project progress and ensured timely task distribution.
