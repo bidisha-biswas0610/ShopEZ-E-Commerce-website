@@ -57,24 +57,24 @@ Shubham is excited to receive his new phone and looks forward to tracking its de
 
 ## Implementation
 - **Backend Development**
- -Designed and implemented backend architecture using Node.js and Express.js.
- -Developed RESTful APIs for authentication, product listings, wishlists, and order management.
- -Implemented JWT-based authentication with role-based access control (RBAC).
- -Set up middleware for token handling and route protection.
+  -Designed and implemented backend architecture using Node.js and Express.js.
+  -Developed RESTful APIs for authentication, product listings, wishlists, and order management.
+  -Implemented JWT-based authentication with role-based access control (RBAC).
+  -Set up middleware for token handling and route protection.
 
 - **Frontend Development**
- -Built responsive UI components and pages (React.js) for landing, login, dashboard, and product views.
- -Integrated backend APIs for dynamic product rendering and user interactions.
- -Managed local state and routing for seamless navigation.   
+  -Built responsive UI components and pages (React.js) for landing, login, dashboard, and product views.
+  -Integrated backend APIs for dynamic product rendering and user interactions.
+  -Managed local state and routing for seamless navigation.   
 
 - **Database & Deployment**
- -Designed MongoDB schemas and managed collections for users, products, and orders.
- -Implemented CRUD operations for products, categories, users, and orders.
- -Deployed backend (Render) & frontend (Vercel) with live database connectivity.
+  -Designed MongoDB schemas and managed collections for users, products, and orders.
+  -Implemented CRUD operations for products, categories, users, and orders.
+  -Deployed backend (Render) & frontend (Vercel) with live database connectivity.
 
-- **Testing and Quality Assurance**  
- -Conducted manual testing of core features (login, product selection, checkout).
- -Validated APIs using Postman and ensured smooth frontend-backend integration. 
+- **Testing and Quality Assurance**
+  -Conducted manual testing of core features (login, product selection, checkout).
+  -Validated APIs using Postman and ensured smooth frontend-backend integration. 
 
 
 
