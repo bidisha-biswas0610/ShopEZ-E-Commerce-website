@@ -55,34 +55,26 @@ Shubham is excited to receive his new phone and looks forward to tracking its de
 ---
 
 
-## 👥 Team Members and Individual Contribution
-- **👨‍🏫 Project Lead – Bidisha Biswas (Backend Developer)**  
- -Designed the backend architecture using Node.js and Express.js.   
- -Developed RESTful APIs for authentication, product listings, wishlist, orders, etc.   
- -Implemented JWT-based authentication with role-based access control.   
- -Configured middleware for token handling and route protection.   
- -Oversaw project progress and ensured timely task distribution.   
+## Implementation
+- **Backend Development**
+ -Designed and implemented backend architecture using Node.js and Express.js.
+ -Developed RESTful APIs for authentication, product listings, wishlists, and order management.
+ -Implemented JWT-based authentication with role-based access control (RBAC).
+ -Set up middleware for token handling and route protection.
 
-- **🎨 Bhargavee Singh (Frontend Developer)**  
- -Created UI components and pages using React.js.   
- -Developed responsive layouts for landing, login, dashboard, and product pages.   
- -Integrated APIs for dynamic product rendering and user interactions.   
- -Managed local state and routing for smooth navigation.   
- -Worked with backend APIs to enable order placement and user authentication.   
+- **Frontend Development**
+ -Built responsive UI components and pages (React.js) for landing, login, dashboard, and product views.
+ -Integrated backend APIs for dynamic product rendering and user interactions.
+ -Managed local state and routing for seamless navigation.   
 
-- **🛠️ Diya Raj (Database & Deployment)**  
- -Designed MongoDB schemas and managed database collections.   
- -Implemented CRUD operations for products, categories, users, and orders.   
- -Set up and maintained .env configurations.   
- -Handled deployment of backend and frontend to platforms like Render or Vercel.   
- -Ensured the app was production-ready and connected to the live database.   
+- **Database & Deployment**
+ -Designed MongoDB schemas and managed collections for users, products, and orders.
+ -Implemented CRUD operations for products, categories, users, and orders.
+ -Deployed backend (Render) & frontend (Vercel) with live database connectivity.
 
-- **🧪 Namrata Bhutani (Tester)**  
- -Conducted manual testing of all core features.   
- -Validated API endpoints using Postman.   
- -Tested various flows such as login, product selection, wishlist, and checkout.   
- -Reported bugs and usability issues to the development team.   
- -Verified frontend-backend integration for data accuracy and user experience.   
+- **Testing and Quality Assurance**  
+ -Conducted manual testing of core features (login, product selection, checkout).
+ -Validated APIs using Postman and ensured smooth frontend-backend integration. 
 
 
 
